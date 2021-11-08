@@ -4,6 +4,6 @@
 
 [学习2](C:\Users\86182\Desktop)是关于学习git远程仓库的学习和教程
 
-Hello.md 是技术二远程传送弄的
+Hello.md 是考核二远程传送弄的
 
 学习3是关于HTML/CSS/JavaScript的学习笔记
